@@ -1,5 +1,8 @@
 # C++ objects and libs
 
+**/release
+**/debug
+
 *.slo
 *.lo
 *.o
